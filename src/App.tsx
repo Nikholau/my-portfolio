@@ -1,7 +1,7 @@
 import { Home } from './pages/Home'
 
 function App() {
-  const username = 'herculesoliverr'
+  const username = 'Nikholau'
 
   return <Home username={username} />
 }

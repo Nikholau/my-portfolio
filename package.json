@@ -2,7 +2,7 @@
   "name": "portfolio-wsis",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Nikholau.github.io/my-portfolio",
+  "homepage": "https://nikholau.github.io/my-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
